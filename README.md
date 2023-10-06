@@ -1,7 +1,7 @@
 # Executive Summary
 
 **Project Title:** Google Fiber Dashboard - Analyzing Customer Repeat Calls
-
+Union query [Bigquery] : LINK [https://www.shorturl.at/shortener.php]
 **Project Excerpt :** Developed a BI dashboard to analyze customer support repeat calls, identifying trends and improving first-contact issue resolution.
 
 **Project Description:**
