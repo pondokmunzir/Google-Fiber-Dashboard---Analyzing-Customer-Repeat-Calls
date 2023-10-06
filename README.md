@@ -2,7 +2,7 @@
 
 **Project Title:** Google Fiber Dashboard - Analyzing Customer Repeat Calls
 
-Union query [Bigquery] : [LINK]([https://www.shorturl.at/shortener.php](https://console.cloud.google.com/bigquery?sq=280298234831:c614008a767744819387361ffa30d6a8))
+Union query [Bigquery] : [LINK](https://console.cloud.google.com/bigquery?sq=280298234831:c614008a767744819387361ffa30d6a8)
 
 **Project Excerpt :** Developed a BI dashboard to analyze customer support repeat calls, identifying trends and improving first-contact issue resolution.
 
